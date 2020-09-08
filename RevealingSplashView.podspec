@@ -13,7 +13,7 @@ A Splash view that animates and reveals its content, inspired by the Twitter spl
   s.author             = { "Chris Jimenez" => "cjimenez16@gmail.com" }
   s.social_media_url   = "http://twitter.com/chrisjimeneznat"
 
-  s.platform           = :ios, "8.0"
+  s.platform           = :ios, "9.0"
   s.swift_version      = "5.0"
 
   s.source        = { :git => "https://github.com/PiXeL16/RevealingSplashView.git", :tag => s.version }
